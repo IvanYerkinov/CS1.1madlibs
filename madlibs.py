@@ -27,7 +27,7 @@ def inputWord(wordT, aWT, amount):
         print("Word added.\n")
 
 
-madlibs = "Yesterday,<p> and I went to the park. On our way to the <a> park, we saw a <a> <n> on a bike. We also saw big <a> balloons tied to a <n>. Once we got to the <a> park, the sky turned <a>. It started to <v> and <v>. <p> and I <v> all the way home. Tomorrow we will try to go to the <a> park again and hope it doesn't <v>."
+madlibs = "Yesterday, <p> and I went to the park. On our way to the <a> park, we saw a <a> <n> on a bike. We also saw big <a> balloons tied to a <n>. Once we got to the <a> park, the sky turned <a>. It started to <v> and <v>. <p> and I <v> all the way home. Tomorrow we will try to go to the <a> park again and hope it doesn't <v>."
 
 
 def swapWord(word):
