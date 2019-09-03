@@ -20,6 +20,7 @@ wC = wordContainer()
 
 def inputWord(wordT, aWT, amount):
     for i in range(amount):
+        print("\033[1;32;40m" + str(i) + "/" + str(amount) + "\033[1;37;40m")
         word = input("Please enter a " + wordT + ".\n")
         word = word.split(" ")[0]
 
